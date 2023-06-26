@@ -1,0 +1,95 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+a {
+    color: black;
+}
+
+.navbar-brand img{
+    height: 100px;
+    width: 150px;
+}
+
+
+.about-block {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.main-text {
+    padding-top: 15px;
+    font-size: 18px;
+}
+
+.logo {
+    width: 150px;
+    height: auto;
+}
+
+.main-title {
+    font-size: 32px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.catalog-filter {
+    display: flex;
+    flex-direction: row;
+    padding: 20px 0;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+.contact-block {
+    display: flex;
+    flex-direction: row;
+}
+
+.contact-map {
+    height: 500px;
+    width: 600px;
+}
+
+
+.form-register {
+    padding-left: 58%;
+}
+
+.text-end {
+    display: flex;
+    padding-left: 10px;
+}
+
+.user-name {
+    padding-left: 20px;
+}
+
+.display-6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 25px;
+}
+
+.center {
+  display:flex;
+  flex-direction:row;
+  justify-content:center;
+  align-items: center;
+  font-style: italic;
+ }
+
+
+
